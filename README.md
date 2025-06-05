@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **postgresql,flask,mongodb,tableau**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/priyanshu-dubey-a28634255/](https://www.linkedin.com/in/priyanshu-dubey-a28634255/)
+- 👨‍💻 All of my projects are available at www.linkedin.com/in/priyanshu-dubey-a28634255
 
 - 📝 I regularly write articles on [Data analysis](Data analysis)
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/priyanshu-dubey-a28634255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-dubey-a28634255/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://"www.linkedin.com/in/priyanshu-dubey-a28634255" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanshu-dubey-a28634255/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
